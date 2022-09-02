@@ -1,0 +1,1 @@
+const words = ["pizza","enojado","fuego","calabaza","barba","platillo","reciclar","biblia","jirafa","castillo","arena","bikini","nieve","libro","escalera","cucurucho","abejorro","fresa","mariposa","escarabajo","camara","lampara","neumatico","tostada","iglesia","buzon"];
